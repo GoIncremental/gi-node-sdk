@@ -1,0 +1,25 @@
+{
+  "name": "gint-sdk",
+  "version": "0.1.0",
+  "description": "Gintellect Software Developers Kit",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "grunt travis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gintellect/gint-sdk-node.git"
+  },
+  "keywords": [
+    "SDK"
+  ],
+  "private": true,
+  "author": "Gintellect",
+  "license": "All Rights Reserved",
+  "bugs": {
+    "url": "https://github.com/Gintellect/gint-sdk-node/issues"
+  },
+  "dependencies": {
+    "moment": "~2.1.0"
+  }
+}
