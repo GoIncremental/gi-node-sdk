@@ -1,23 +1,23 @@
 {
-  "name": "gint-sdk",
-  "version": "0.1.0",
-  "description": "Gintellect Software Developers Kit",
+  "name": "gi-sdk",
+  "version": "0.2.0",
+  "description": "GoIncremental NodeJs Software Developers Kit",
   "main": "index.coffee",
   "scripts": {
-    "test": "grunt travis"
+    "test": "grunt ci"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gintellect/gint-sdk-node.git"
+    "url": "https://github.com/GoIncremental/gi-node-sdk.git"
   },
   "keywords": [
     "SDK"
   ],
   "private": true,
-  "author": "Gintellect",
-  "license": "All Rights Reserved",
+  "author": "GoIncremental",
+  "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/Gintellect/gint-sdk-node/issues"
+    "url": "https://github.com/GoIncremental/gi-node-sdk/issues"
   },
   "dependencies": {
     "moment": "~2.1.0"
