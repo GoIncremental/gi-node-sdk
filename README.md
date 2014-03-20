@@ -1,7 +1,7 @@
-SDK-Node
+Gi-Node-SdK
 ========
 
-Gintellect Software Developer Kit for Node.js
+GoIncremental Software Developer Kit for Node.js
 
 ## Install
-      npm install gint-sdk    
+      npm install gi-sdk    
