@@ -1,6 +1,6 @@
 {
   "name": "gi-sdk",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "GoIncremental NodeJs Software Developers Kit",
   "main": "index.coffee",
   "scripts": {
